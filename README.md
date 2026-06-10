@@ -8,16 +8,16 @@
 
 ---
 ## 🧑‍💻 About Me
-I'm currently learning and building my path in **cybersecurity**, with a strong interest in:
 
+I'm currently studying a **Higher Vocational Degree in Systems and Network Administration (ASIX)** at **Institut Carles Vallbona**.
+
+I'm building my path in **cybersecurity**, with a strong interest in:
 - 🛡️ Ethical Hacking
 - 🌐 Networking
 - 🐧 Linux Systems
 - 🔍 Web Security
 - 🧪 Virtual Labs
 - ⚙️ System Administration
-
-I enjoy understanding how systems work, how they can fail, and how to secure them properly.
 
 ---
 
