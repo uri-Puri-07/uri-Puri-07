@@ -35,7 +35,7 @@ I'm building my path in **cybersecurity**, with a strong interest in:
 ## 🌐 Connect with me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/oriol-c-2888a1297/" target="_blank" >
+  <a href="" target="_blank" >
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 
