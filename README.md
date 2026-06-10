@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Oriol 👋</h1>
+<h1 align="center">Hi, I'm Uri 👋</h1>
 <p align="center">
   <b>Cybersecurity Student | Ethical Hacking | Networking | Linux</b>
 </p>
